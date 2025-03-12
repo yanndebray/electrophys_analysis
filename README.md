@@ -36,7 +36,7 @@ Or to set the run mode to "OutOfProcess" which allows Python to be run in a sepa
 %% pyenv(ExecutionMode = "OutOfProcess")
 ```
 
-Now that you know that MATLAB can identify your specific Python interpreter, make sure all the Python packages needed for your project are properly installed in your system. In this case, we need the package elephant and other dependencies, so let's get them installed running the setup script: 
+Now that you know that MATLAB can identify your specific Python interpreter, make sure all the Python packages needed for your project are properly installed in your system. In this case, we need the package elephant and other dependencies, so let's get them installed running the setup script in MATLAB Online: 
 
 ```matlab
 setup
